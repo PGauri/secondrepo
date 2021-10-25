@@ -1,11 +1,13 @@
 
 body { 
     background-color: #c3faf0;
+    color: rgb(41, 41, 49);
     background-image: linear-gradient(90deg, #7edac9 10%, #a2b0ee 70%);    
 }
 
 .intro {        
     padding: 50px;  
+    background-color: #7edac9;
         }
 
 .work {        
@@ -14,8 +16,16 @@ body {
 
 .footer {
     padding: 50px;  
+    background-color: #a2b0ee;
+    font-family: "Quicksand", sans-serif;
+
 }
-        
+
+.tab {
+ 
+    font-family: "Quicksand"; sans-serif;
+}
+
 .h1 {
  
     font-family: "Quicksand", sans-serif;
@@ -25,6 +35,25 @@ body {
     font-family: "Quicksand", sans-serif;
 }
 .h3 {
+ 
+    font-family: "Quicksand", sans-serif;
+}
+.h4 {
+ 
+    font-family: "Quicksand", sans-serif;
+}
+
+.sketches {
+ 
+    font-family: "Quicksand", sans-serif;
+}
+
+.illustration {
+ 
+    font-family: "Quicksand", sans-serif;
+}
+
+.ui {
  
     font-family: "Quicksand", sans-serif;
 }
