@@ -20,7 +20,12 @@ body {
     font-family: "Quicksand", sans-serif;
 
 }
-        
+
+.tab {
+ 
+    font-family: "Quicksand"; sans-serif;
+}
+
 .h1 {
  
     font-family: "Quicksand", sans-serif;
@@ -34,6 +39,21 @@ body {
     font-family: "Quicksand", sans-serif;
 }
 .h4 {
+ 
+    font-family: "Quicksand", sans-serif;
+}
+
+.sketches {
+ 
+    font-family: "Quicksand", sans-serif;
+}
+
+.illustration {
+ 
+    font-family: "Quicksand", sans-serif;
+}
+
+.ui {
  
     font-family: "Quicksand", sans-serif;
 }
