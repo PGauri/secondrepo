@@ -7,7 +7,6 @@ body {
 
 .intro {        
     padding: 50px;  
-    background-color: #7edac9;
         }
 
 .work {        
@@ -16,7 +15,6 @@ body {
 
 .footer {
     padding: 50px;  
-    background-color: #a2b0ee;
     font-family: "Quicksand", sans-serif;
 
 }
