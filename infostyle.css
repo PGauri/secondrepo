@@ -1,5 +1,6 @@
 .container {
     font-family: "Quicksand"; sans-serif;
+    font-weight: bold ;
     display: grid;
     grid-template-columns: auto auto auto;
     padding: 10px;
@@ -20,5 +21,9 @@
   .footer {
     padding: 20px;  
     font-size: 10px;
+    font-family: "Quicksand"; sans-serif;
+  }
+
+  .link{
     font-family: "Quicksand"; sans-serif;
   }
