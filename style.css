@@ -1,8 +1,6 @@
 
 body { 
-    background-color: #c3faf0;
-    color: rgb(41, 41, 49);
-    background-image: linear-gradient(90deg, #7edac9 10%, #a2b0ee 70%);    
+    background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%); );
 }
 
 .intro {        
