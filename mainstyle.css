@@ -189,3 +189,52 @@ h3{
     padding-top: 5S0px;
     text-align: center;
 }
+
+.s2-col{
+    flex-basis: 32%;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    position: relative;
+    overflow: hidden;
+}
+
+.s2-col img{
+   width: 100%; 
+   display: block;
+}
+
+.layer
+{
+    background: transparent;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: 0.5s;
+    bottom: 0;
+    text-align: center;
+}
+
+.layer:hover{
+    background: rgba(233, 195, 158, 0.616);
+}
+
+.layer h3{
+    width: 100%;
+    font-weight: 500;
+    color: #fff;
+    font-size: 26px;
+    bottom: 0;
+    left: 29%;
+    transform: translateX(-50px);
+    position: absolute; 
+    opacity: 0;
+    transition: 0.5s;
+}
+
+.layer:hover h3{
+ bottom: 29%;
+ 
+ opacity: 1;   
+}
